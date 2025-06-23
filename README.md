@@ -8,10 +8,21 @@
 
 ###  Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="maulanasyaa top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="maulanasyaa top languages" />
+      </td>
+      
+      <td width="16"></td> 
+      
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>

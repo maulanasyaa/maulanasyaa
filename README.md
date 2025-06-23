@@ -9,7 +9,7 @@
 ###  Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="maulanasyaa top languages" />
+  <img src=https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
 </p>

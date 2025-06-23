@@ -24,7 +24,7 @@
 
 ### ⚡ Where to find me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/maulanasyaripabdurahman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

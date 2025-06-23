@@ -9,9 +9,9 @@
 ###  Stats:
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
+  <img src=https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false/>
 </p>
 
 ### 🚀 Languages and Tools I Use

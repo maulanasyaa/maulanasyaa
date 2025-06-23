@@ -17,33 +17,15 @@
 
 ---
 
-<details align="center">
-  <summary>📊 My GitHub Statistics</summary>
-  <br>
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-      </td>
-      <td width="20"></td> <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=maulanasyaa&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-     <tr>
-      <td colspan="3" align="center">
-        <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=maulanasyaa&theme=ayu-mirage&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
-</details>
-
+<summary>📊 My GitHub Statistics
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+</p>
+</summary>
 ---
 
 ### 🚀 Languages and Tools I Use

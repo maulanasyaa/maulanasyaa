@@ -6,15 +6,20 @@
 
 <p align="center">Statistics Student | Python Learner</p>
 
-###  Stats:
+### Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src=https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false/>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+      <td width="20"></td> <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🚀 Languages and Tools I Use
 

@@ -23,13 +23,7 @@
 </p>
 
 ### ⚡ Where to find me
-
-<p align="center">
-  <a href="https://linkedin.com/in/maulanasyaripabdurahman" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="40" alt="linkedin logo"  />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/maulanasyaa_" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo" />
-  </a>
+<p align="left">
+<a href="https://linkedin.com/in/maulanasyaripabdurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulana syarip abdurahman" height="30" width="40" /></a>
+<a href="https://instagram.com/maulanasyaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulanasyaa_" height="30" width="40" /></a>
 </p>

@@ -1,36 +1,67 @@
-<h1 align="center">Hi, I'm Maulana Syarip Abdurahman 👋👋</h1>
+<h1 align="center">Hi, I'm Maulana Syarip Abdurahman 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=maulanasyaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile visit counter" />
 </p>
 
-<p align="center">Statistics Student | Python Learner</p>
-
-### Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Statistics+Student;Python+Learner;Data+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  Welcome to my GitHub profile! I'm a statistics student with a great passion for Python programming and data analysis. <br/>
+  I am currently diving deep into various Python libraries for data science and machine learning.
+  </p>
+
+---
+
+<details align="center">
+  <summary>📊 My GitHub Statistics</summary>
+  <br>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+      <td width="20"></td> <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=maulanasyaa&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+     <tr>
+      <td colspan="3" align="center">
+        <br>
+        <img src="https://github-profile-trophy.vercel.app/?username=maulanasyaa&theme=ayu-mirage&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+---
 
 ### 🚀 Languages and Tools I Use
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
 </p>
+
+---
 
 ### ⚡ Where to find me
 
 <p align="center">
-  <a href="www.linkedin.com/in/maulanasyaripabdurahman" target="_blank">
+  <a href="https://www.linkedin.com/in/maulanasyaripabdurahman" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="Linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/maulanasyaa_" target="_blank">
+  <a href="https://www.instagram.com/maulanasyaa_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
 </p>

@@ -9,13 +9,13 @@
 ###  Stats:
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="maulanasyaa top languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="maulanasyaa top languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark&hide_border=true" alt="maulanasyaa github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
       </td>
     </tr>
   </table>

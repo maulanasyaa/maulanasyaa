@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maulana Syarip Abdurahman 👋👋</h1>More actions
+<h1 align="center">Hi, I'm Maulana Syarip Abdurahman 👋👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -8,16 +8,18 @@
 
 ###  Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="maulanasyaa top languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="maulanasyaa top languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark&hide_border=true" alt="maulanasyaa github stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>

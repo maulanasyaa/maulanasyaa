@@ -25,6 +25,9 @@
 ### ⚡ Where to find me
 
 <p align="center">
+  <a href="www.linkedin.com/in/maulanasyaripabdurahman" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="Linkedin" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/maulanasyaa_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />

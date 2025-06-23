@@ -22,7 +22,7 @@
 </p>
 
 ---
-### 📊 My GitHub Statistics
+### 📊 My GitHub Stats
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
    &nbsp;&nbsp;&nbsp;&nbsp;

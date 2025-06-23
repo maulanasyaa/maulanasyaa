@@ -16,6 +16,12 @@
   </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=#00BFFF&color_dots=#A4A5A6" alt="github contribution snake dark" />
+</p>
+
+---
 ### 📊 My GitHub Statistics
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />

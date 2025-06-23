@@ -8,17 +8,9 @@
 
 ### Stats:
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-      </td>
-      <td width="20"></td> <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
 </div>
 
 ### 🚀 Languages and Tools I Use

@@ -7,14 +7,12 @@
 <p align="center">Statistics Student | Python Learner</p>
 
 ### Stats:
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
    &nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-</div>
+
 
 ### 🚀 Languages and Tools I Use
 

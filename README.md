@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/maulanasyaripabdurahman" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="40" alt="linkedin logo"  />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/maulanasyaa_" target="_blank">

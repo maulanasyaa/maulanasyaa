@@ -16,9 +16,6 @@
   </p>
 
 ---
-<img src="https://raw.githubusercontent.com/maulanasyaa/maulanasyaa/output/snake.svg" alt="Snake animation" />
----
-
 ### 📊 My GitHub Statistics
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />

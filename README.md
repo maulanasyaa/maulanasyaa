@@ -16,6 +16,8 @@
   </p>
 
 ---
+<img src="https://raw.githubusercontent.com/maulanasyaa/maulanasyaa/output/snake.svg" alt="Snake animation" />
+---
 
 ### 📊 My GitHub Statistics
   <p align="center">

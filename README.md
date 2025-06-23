@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a statistics student with a great passion for Python programming and data analysis. <br/>
+  Hi! I'm a statistics student with a great passion for Python programming and data analysis. <br/>
   I am currently diving deep into various Python libraries for data science and machine learning.
   </p>
 
 ---
 
-<summary>📊 My GitHub Statistics
+### 📊 My GitHub Statistics
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
    &nbsp;&nbsp;&nbsp;&nbsp;

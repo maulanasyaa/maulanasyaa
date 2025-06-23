@@ -8,8 +8,16 @@
 
 ###  Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en" alt="maulanasyaa" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact" alt="maulanasyaa" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="maulanasyaa top languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&locale=en&theme=dark" alt="maulanasyaa github stats" />
+    </td>
+  </tr>
+</table>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>

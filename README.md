@@ -23,12 +23,13 @@
 </p>
 
 ### ⚡ Where to find me
-<p align="left">
-<a align="center" href="https://linkedin.com/in/maulanasyaripabdurahman" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-  
-<a align="center" href="https://instagram.com/maulanasyaa_" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" />
-</a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maulanasyaripabdurahman" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/maulanasyaa_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
 </p>

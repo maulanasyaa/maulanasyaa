@@ -37,7 +37,7 @@
 ### 🚀 Languages and Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,python,docker,sklearn,git,github" />
 </p>
 
 ---

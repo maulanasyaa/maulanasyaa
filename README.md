@@ -41,7 +41,7 @@
 
 ## 🌱 About Me
 
-<img align="right" alt="Coding illustration" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/dbcd7c2b1ea28b02b23274ff2c0f635b.gif"/>
+<img align="right" alt="Coding illustration" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/dbcd7c2b1ea28b02b23274ff2c0f635b.gif"/>
 
 ```python
 class MaulanaSyaripAbdurahman:

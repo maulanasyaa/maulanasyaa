@@ -15,7 +15,7 @@
 <div align="center">
   
   <a href="https://github.com/maulanasyaa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=D4A574&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hi+there!+I'm+Maulana+Syarip+%F0%9F%91%8B;Statistics+Student+at+Indonesia+Open+University;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=D4A574&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hi+there!+I'm+Maulana+Syarip+Abdurahman+%F0%9F%91%8B;Statistics+Student+at+Indonesia+Open+University;Machine+Learning+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
 
 </div>
@@ -122,40 +122,11 @@ print(me.greet())
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/maulanasyaa/ut-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maulanasyaa&repo=ut-tracker&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=D4A574&icon_color=A3B18A&text_color=F5E6D3&cache_seconds=1800" alt="UT Tracker"/>
-  </a>
-  <a href="https://github.com/maulanasyaa/anchor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maulanasyaa&repo=anchor&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=D4A574&icon_color=A3B18A&text_color=F5E6D3&cache_seconds=1800" alt="Anchor"/>
-  </a>
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=1d2021&title_color=D4A574&icon_color=A3B18A&text_color=F5E6D3&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanasyaa&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=D4A574&text_color=F5E6D3&cache_seconds=1800"/>
-
-</div>
-
-<br/>
 
 <div align="center">
   
@@ -173,44 +144,30 @@ print(me.greet())
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanasyaa&theme=gruvbox" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanasyaa&theme=solarized" width="100%"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maulanasyaa&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maulanasyaa&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maulanasyaa&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maulanasyaa&theme=gruvbox&utcOffset=7" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    3D CONTRIBUTION GRAPH                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎨 3D Contribution Graph
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/maulanasyaa/maulanasyaa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maulanasyaa&theme=solarized" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maulanasyaa&theme=solarized" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maulanasyaa&theme=solarized" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maulanasyaa&theme=solarized&utcOffset=7" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                   -->
+<!--                    CONTRIBUTION ACTIVITY GRAPH                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Journey
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=maulanasyaa&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maulanasyaa&bg_color=1d2021&color=D4A574&line=A3B18A&point=F5E6D3&area=true&area_color=8B6F47&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2031%20Days" width="100%"/>
 
 </div>
 
@@ -226,7 +183,6 @@ print(me.greet())
 
 | Platform | Certificate | Year |
 |----------|-------------|------|
-| 🎓 **Dicoding Indonesia** | Machine Learning / Web Dev Path | 2024 |
 
 _More certifications coming soon..._
 

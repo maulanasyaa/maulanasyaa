@@ -159,17 +159,9 @@ print(me.greet())
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DETAILED METRICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 Detailed Metrics
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/maulanasyaa/maulanasyaa/main/metrics.svg" alt="Metrics" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=#00BFFF&color_dots=#A4A5A6" alt="github contribution snake dark" />
+</p>
 
 ---
 

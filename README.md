@@ -160,20 +160,6 @@ print(me.greet())
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION ACTIVITY GRAPH                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Journey
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maulanasyaa&bg_color=1d2021&color=D4A574&line=A3B18A&point=F5E6D3&area=true&area_color=8B6F47&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2031%20Days" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       DETAILED METRICS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
